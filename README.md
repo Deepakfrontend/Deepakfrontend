@@ -1,24 +1,45 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
+
+---
+
+### 🧑‍🎓 About Me
 
 - 🎓 B.Tech Graduate from **NSIT Delhi** (2021)  
-- 💻 I love building Web Applications using **MERN Stack**  
-- 🔭 Currently looking for **Web Development** job opportunities  
-- 🌱 Currently sharpening my skills in **DSA** and **System Design**  
-- 📫 How to reach me: [deepakk21ece@gmail.com](mailto:deepakk21ece@gmail.com)  
-- 🔗 LinkedIn: [deepakk21ece](https://www.linkedin.com/in/deepakk21ece/)
+- 💻 Passionate about building user-friendly web applications  
+- 🔭 Currently looking for **Frontend / Full-Stack Development** job opportunities  
+- 🌱 Exploring **MERN stack** and strengthening **Data Structures & Algorithms**  
+- 📫 Reach me at: [deepakk21ece@gmail.com](mailto:deepakk21ece@gmail.com)  
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/deepakk21ece/)
 
 ---
 
 ### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=mysql)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 🌟 Projects I'm Proud Of
+
+- 💱 [**Currency Converter Web App**](https://github.com/Deepakfrontend/Currency-Converter-Web-Application)  
+  A responsive currency converter using real-time exchange rate APIs. Built with HTML, CSS, and JavaScript.
+
+- ⛅ [**Weather App**](https://github.com/Deepakfrontend/weather-app)  
+  Real-time weather updates using OpenWeatherMap API. Clean UI, built with vanilla JS.
+
+- 😂 [**Random Joke of the Day App**](https://github.com/Deepakfrontend/RandomJokeDay)  
+  A fun React app that fetches a new joke with each refresh using a public joke API.
+
+- 📄 [**My Resume (PDF)**](https://github.com/Deepakfrontend/Resume/raw/main/Deepak_Kumar_Resume.pdf)  
+  My resume is available here for download.
 
 ---
 
@@ -31,13 +52,7 @@
 
 ---
 
-### 🌟 Projects I'm Proud Of
-- 🔐 **[Auth App with React + Node.js](#)** – Secure login system using cookies and JWT  
-- 📰 **[News Aggregator App](#)** – Built using React and public APIs  
-- 🎮 **[Memory Card Game](#)** – JavaScript DOM project
+### 📫 Contact Me
 
----
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepakk21ece-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepakk21ece/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepak%20Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepakk21ece/)  
 📧 [deepakk21ece@gmail.com](mailto:deepakk21ece@gmail.com)
