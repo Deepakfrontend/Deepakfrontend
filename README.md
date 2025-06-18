@@ -38,7 +38,7 @@
 - 😂 [**Random Joke of the Day App**](https://github.com/Deepakfrontend/RandomJokeDay)  
   A fun React app that fetches a new joke with each refresh using a public joke API.
 
-- 📄 [**My Resume (PDF)**](https://github.com/Deepakfrontend/Resume/raw/main/Deepak_Kumar_Resume.pdf)  
+- 📄 [**My Resume (PDF)**](https://drive.google.com/file/d/1Ka_kTzdWLiSuWclsrBIXxsaaT8e0nTlb/view?usp=sharing)  
   My resume is available here for download.
 
 ---
