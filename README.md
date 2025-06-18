@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Deepak Kumar</h1>
+<h3 align="center">A passionate Web Developer from India 🇮🇳 | MERN Stack Enthusiast</h3>
 
 ---
 
 ### 🧑‍🎓 About Me
 
-- 🎓 B.Tech Graduate from **NSIT Delhi** (2021)  
-- 💻 Passionate about building user-friendly web applications  
-- 🔭 Currently looking for **Frontend / Full-Stack Development** job opportunities  
-- 🌱 Exploring **MERN stack** and strengthening **Data Structures & Algorithms**  
-- 📫 Reach me at: [deepakk21ece@gmail.com](mailto:deepakk21ece@gmail.com)  
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/deepakk21ece/)
+- 👨‍💻 I'm a B.Tech graduate from **NSIT Delhi (2021)**, deeply passionate about creating responsive and performant web applications.
+- 🔍 Actively seeking opportunities in **Frontend** or **Full-Stack Web Development**.
+- ⚙️ Currently sharpening my skills in **MERN Stack** and **Data Structures & Algorithms**.
+- ✉️ Feel free to reach out: [deepakk21ece@gmail.com](mailto:deepakk21ece@gmail.com)
+- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/deepakk21ece/)
 
 ---
 
@@ -24,30 +23,41 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
 ### 🌟 Projects I'm Proud Of
 
-- 💱 [**Currency Converter Web App**](https://github.com/Deepakfrontend/Currency-Converter-Web-Application)  
-  A responsive currency converter using real-time exchange rate APIs. Built with HTML, CSS, and JavaScript.
+- 💱 **[Currency Converter Web App](https://github.com/Deepakfrontend/Currency-Converter-Web-Application)**  
+  → Real-time currency conversion using exchange rate API. Built with HTML, CSS, JavaScript.
 
-- ⛅ [**Weather App**](https://github.com/Deepakfrontend/weather-app)  
-  Real-time weather updates using OpenWeatherMap API. Clean UI, built with vanilla JS.
+- ⛅ **[Weather App](https://github.com/Deepakfrontend/weather-app)**  
+  → Get real-time weather updates with clean UI using the OpenWeatherMap API.
 
-- 😂 [**Random Joke of the Day App**](https://github.com/Deepakfrontend/RandomJokeDay)  
-  A fun React app that fetches a new joke with each refresh using a public joke API.
+- 😂 **[Random Joke of the Day App](https://github.com/Deepakfrontend/RandomJokeDay)**  
+  → A fun React-based joke app that fetches a new laugh every refresh.
 
-- 📄 [**My Resume (PDF)**](https://drive.google.com/file/d/1Ka_kTzdWLiSuWclsrBIXxsaaT8e0nTlb/view?usp=sharing)  
-  My resume is available here for download.
+- 📄 **[Resume (PDF)](https://drive.google.com/file/d/1Ka_kTzdWLiSuWclsrBIXxsaaT8e0nTlb/view?usp=sharing)**  
+  → Download my resume for more information.
 
 ---
 
 ### 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepakfrontend&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakfrontend&theme=radical" width="45%" />
+</div>
+
+---
+
+### 🔥 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepakfrontend&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakfrontend&theme=radical" width="47%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakfrontend&theme=dracula" width="95%" />
 </p>
 
 ---
